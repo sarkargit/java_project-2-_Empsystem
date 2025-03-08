@@ -64,9 +64,6 @@ Replace **"yourusername"** and **your contact details** before adding this to Gi
 2. Copy & paste this content.  
 3. Add and push it to GitHub:  
    ```sh
-   git add README.md
-   git commit -m "Added project description"
-   git push origin main
-   ```
+  
 
-Let me know if you need modifications! 🚀😃
+
